@@ -1,0 +1,2 @@
+Bubble sort is the most basic sorting technique that works by comparising the adajacent elements of the array.
+This is the explanation for it being described as a COMPARISON BASED SORTING TECHNIQUE.
